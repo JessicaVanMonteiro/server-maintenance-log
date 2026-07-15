@@ -34,4 +34,4 @@ A simple Python application for registering and viewing server maintenance recor
 ## Author
 
 Jessica Monteiro
-Currently studying the IBM Full Stack Software Developer Professional Certificate on Coursera.
+- Currently studying the IBM Full Stack Software Developer Professional Certificate on Coursera.
